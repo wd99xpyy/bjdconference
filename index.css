@@ -1,0 +1,71 @@
+body{
+    background-image: url("background.jpg");
+    margin:100px;
+}
+#body{
+    width:100%;
+}
+#right{
+    width:1032px;
+    height:800px;
+    margin-left: 500px;
+    position: absolute;
+}
+#body{
+    width:100%;
+}
+#left{
+    width:766px;
+    height:766px;
+    position: absolute;
+}
+#poster{
+    width:100%;
+}
+#logo{
+    margin-left:100px;
+    width:255px;
+    height:287px;
+    position:absolute;
+}
+#navlist{
+    width:1200px;
+    height:82px;
+    margin-left: 400px;
+    margin-top: 60px;
+    position:absolute;
+}
+nav{
+    height:281px;
+}
+#nav1{
+    margin:10px;
+}
+#register{
+    margin-left: 800px;
+}
+footer{
+    margin-top:1000px;
+    margin-left:650px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
